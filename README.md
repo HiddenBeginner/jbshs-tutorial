@@ -5,7 +5,7 @@
     - 강화학습 개념과 Q-learning
 
 ## 실습 자료 열기
-- 구글 코랩 (https://colab.research.google.com/)에 접속해주세요.
+- 구글 코랩 (https://colab.research.google.com/) 에 접속해주세요.
 - 바로 등장하는 팝업에서 상단의 `Github`탭을 클릭해주세요.
     - 팝업이 꺼졌다면, 왼쪽 상단 `파일` 탭에 있는 `노트 열기` 클릭하면 다시 팝업이 나타납니다.
 - 검색칸에 https://github.com/HiddenBeginner/tutorial 을 입력한 후 돋보기 클릭해주세요.
