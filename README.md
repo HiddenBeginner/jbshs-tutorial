@@ -11,5 +11,10 @@
 - 검색칸에 https://github.com/HiddenBeginner/tutorial 을 입력한 후 돋보기 클릭해주세요.
 - 각 수업에 맞는 노트 열어주세요.
 
+## LaTex를 사용해서 논문 작성하기
+- Overleaf (https://www.overleaf.com/)에 접속해주세요.
+- 구글 계정을 사용해서 로그인 해주세요.
+- `New Project`를 클릭 후 `Upload Project`를 클릭하여 `latex.zip` 파일을 선택해주세요.
+
 ## 수업 내용 및 과제 관련 문의
 - 이메일 dongjinlee@postech.ac.kr
