@@ -12,7 +12,7 @@
 - 각 수업에 맞는 노트 열어주세요.
 
 ## LaTex를 사용해서 논문 작성하기
-- Overleaf (https://www.overleaf.com/)에 접속해주세요.
+- Overleaf (https://www.overleaf.com/) 에 접속해주세요.
 - 구글 계정을 사용해서 로그인 해주세요.
 - `New Project`를 클릭 후 `Upload Project`를 클릭하여 `latex.zip` 파일을 선택해주세요.
 
